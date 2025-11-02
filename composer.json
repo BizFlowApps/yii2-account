@@ -1,5 +1,5 @@
 {
-  "name": "bizflowapps/yii2-account",
+  "name": "nordsoftware/yii2-account",
   "description": "Account module for the Yii framework.",
   "license": "BSD-3-Clause",
   "keywords": ["yii-extension"],
